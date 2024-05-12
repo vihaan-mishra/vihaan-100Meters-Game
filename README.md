@@ -10,7 +10,7 @@ This game was completed late last year.
 Done in jupyter notebook.
 
 ## Why
-I made this game to practice using tkinter and 
+I made this game to practice using tkinter and OOP
 
 ## How
 It was done using OOP and tkinter to create a GUI.
